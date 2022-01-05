@@ -1,0 +1,4 @@
+<?
+$MESS[MODULE_LANG_PREFIX."_STEP_BEFORE"] = "Модуль";
+$MESS[MODULE_LANG_PREFIX."_STEP_AFTER"] = "установлен";
+$MESS[MODULE_LANG_PREFIX."_STEP_SUBMIT_BACK"] = "Вернуться в список";
